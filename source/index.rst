@@ -15,13 +15,14 @@ News
 
 Rのプログラミング演習の章はGoogle Colaboratoryというサービスを用いて執筆し、
 Jupyter notebook (iPython notebook)の形式（.ipynb）で配布予定です。
+(このあたりは現在考案中です。)
 
 本資料はコースの受講者以外も誰でも自由に無料で使うことができます．
 
 想定受講者
 ^^^^^^^^^^
 
-受講想定者として学部1回生、パソコンを大学から主に使用し始め、プログラミング等は未経験な者を想定しています．
+受講想定者として学部1回生、パソコンを(主に)大学から使用し始め、プログラミング等は未経験である者を想定しています．
 
 資料もくじ
 ^^^^^^^^^^
@@ -31,6 +32,13 @@ Jupyter notebook (iPython notebook)の形式（.ipynb）で配布予定です。
    :numbered:
 
    word_1
+   word_2
+   excel_1
+   excel_2
+   powerpoint_1
+   powerpoint_2
+   programming
+   R_1
 
 推奨ブラウザ環境
 ^^^^^^^^^^^^^^^^^
@@ -43,7 +51,9 @@ Jupyter notebook (iPython notebook)の形式（.ipynb）で配布予定です。
 
 問い合わせ先
 ^^^^^^^^^^^^^^
-本資料についての質問、不具合の報告などについてはsakai.toshiyuki.3wあっとkyoto-u.ac.jpまで。
+本資料についての質問、不具合の報告などについては以下のメールアドレスまでお願いします。
+
+sakai.toshiyuki.3wあっとまーくkyoto-u.ac.jpまで。
 
 
 索引と検索
