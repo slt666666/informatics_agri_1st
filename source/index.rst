@@ -47,7 +47,7 @@ Jupyter notebook (iPython notebook)の形式（.ipynb）で配布予定です。
 
 本資料の作成者
 ^^^^^^^^^^^^^^
-本資料は京都大学 栽培植物起原学研究室 堺　俊之によって作成されました。
+本資料は京都大学 `栽培植物起原学研究室 <http://www.crop-evolution.kais.kyoto-u.ac.jp/>`_ 堺　俊之によって作成されました。
 
 問い合わせ先
 ^^^^^^^^^^^^^^
