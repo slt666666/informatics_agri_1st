@@ -67,8 +67,8 @@ ZoteroやMendeley, EndNoteなどが有名です。有料のものだとPaperpile
 
 | EndNoteについては京大生であれば無料で利用でき、講習会なども開かれています。
 | 2020年度に開催された講習会「文献管理ツールの使い方-EndNote Basic」の録画が公開されています。
-| 録画：https://cls.iimc.kyoto-u.ac.jp/portal/site/6c851694-057e-4a42-885e-0f38d4a61af4/page/c7cc5d1d-c671-4380-9f2e-df795a3e4118
-| 資料：https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/255602
+| 録画: `録画保管場所のリンク <https://cls.iimc.kyoto-u.ac.jp/portal/site/6c851694-057e-4a42-885e-0f38d4a61af4/page/c7cc5d1d-c671-4380-9f2e-df795a3e4118>`_
+| 資料: `資料のリンク <https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/255602>`_
 
 その他の文書作成ソフト
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -78,3 +78,8 @@ ZoteroやMendeley, EndNoteなどが有名です。有料のものだとPaperpile
 
 演習課題
 ^^^^^^^^^^^^^^^^^^^^^^
+
+| `このファイル <_static/images/Sample1.docx>`_ にはスタイル等を適用する前の文章が入っています。
+| 残り時間を使って、この文章をWordで良い感じにレイアウトしてみてください。
+| スタイルを適用する際の参考に階層(見出し1とか)を書いてますが、このあたりも参考にするかどうかは自由です。
+| `レイアウト例(pdfファイル) <_static/images/Sample1.docx>`_
