@@ -36,6 +36,7 @@ Jupyter notebook (iPython notebook)の形式（.ipynb）で配布予定です。
    excel_1
    excel_2
    excel_3
+   excel_ex
    powerpoint_1
    powerpoint_2
    programming
