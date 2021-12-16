@@ -2,6 +2,17 @@
  R演習
 =======================
 
-`[test1] <https://colab.research.google.com/github/slt666666/informatics_agri_1st/blob/main/source/_static/colab_notebook/RL01.ipynb>`_
+**1. Google Colaboratoryについて**
 
-`[test2] <https://colab.research.google.com/github/slt666666/informatics_agri_1st/blob/main/source/_static/colab_notebook/RL02.ipynb>`_
+| Google Colaboratoryの最低限の使い方を説明します。
+| ↓の「Open in Colab」のボタンをクリックしてください。
+
+.. image:: _static/images/programming/colab-badge.svg
+   :target: https://colab.research.google.com/github/slt666666/informatics_agri_1st/blob/main/source/_static/colab_notebook/RL01.ipynb
+
+**2. Rの基礎**
+
+Rの基礎的な機能について紹介します。
+
+.. image:: _static/images/programming/colab-badge.svg
+   :target: https://colab.research.google.com/github/slt666666/informatics_agri_1st/blob/main/source/_static/colab_notebook/RL02.ipynb
