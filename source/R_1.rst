@@ -1,4 +1,7 @@
 =======================
- R演習 1~X回目(未定)
+ R演習
 =======================
 
+`[test1] <https://colab.research.google.com/github/slt666666/informatics_agri_1st/blob/main/source/_static/colab_notebook/RL01.ipynb>`_
+
+`[test2] <https://colab.research.google.com/github/slt666666/informatics_agri_1st/blob/main/source/_static/colab_notebook/RL02.ipynb>`_
