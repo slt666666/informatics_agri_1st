@@ -22,4 +22,4 @@ Rの基礎的な機能について紹介します。
 Rでデータを読み込んだり、グラフを描いたり、パッケージを使ったりします。
 
 .. image:: _static/images/programming/colab-badge.svg
-   :target: https://colab.research.google.com/github/slt666666/informatics_agri_1st/blob/main/source/_static/colab_notebook/RL02.ipynb
+   :target: https://colab.research.google.com/github/slt666666/informatics_agri_1st/blob/main/source/_static/colab_notebook/RL03.ipynb
